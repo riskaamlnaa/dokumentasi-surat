@@ -1,0 +1,39 @@
+{
+  "project_name": "Manajemen Surat DP3A",
+  "slug": "manajemen-surat-dp3a",
+  "description": "Sistem Informasi Manajemen Surat Masuk dan Keluar untuk Dinas Pemberdayaan Perempuan dan Perlindungan Anak (DP3A) Kota Banjarmasin. Membantu digitalisasi arsip, pelacakan status surat real-time, dan pembuatan laporan otomatis.",
+  "category": "Web App",
+  "tech_stack": [
+    "PHP Native",
+    "MySQL",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Chart.js",
+    "html2pdf.js"
+  ],
+  "features": [
+    "Dashboard Statistik Real-time",
+    "CRUD Surat Masuk & Keluar",
+    "Filter & Pencarian Multi-kriteria",
+    "Cetak Laporan PDF",
+    "Arsip Digital Terpusat"
+  ],
+  "links": {
+    "live_demo": "https://riskaamlnaa.github.io/surat/",
+    "github_repo": "https://github.com/riskaamlnaa/surat",
+    "documentation": "https://riskaamlnaa.github.io/surat/"
+  },
+  "gallery": [
+    "images/dashboard.png",
+    "images/tambah-surat.png",
+    "images/detail-surat.png",
+    "images/statistik.png",
+    "images/arsip-surat.png"
+  ],
+  "author": {
+    "name": "Riska Amlina",
+    "role": "Developer",
+    "email": "emailkamu@example.com"
+  }
+}
